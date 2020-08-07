@@ -1,0 +1,4 @@
+1. First, You can export from live server via All-in-one wp migration plugin
+2. click->all-in-one wp migration->export->file
+3. after exporting your live site file you have to have a all-in-one wp migration plugin in your local server.
+4. then click->your local server's all-in-one wp migration->import file->proceed->premalink->save 2 times.
